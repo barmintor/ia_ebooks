@@ -3,7 +3,7 @@
 A python script that will download Internet Archive ebook collection records, munge them up with CLIO MARC data and add some convenient links.
 
 ## Prerequisites
-This is a python 3 script that depends on requests and pymarc
+This is a python 3 script that depends on requests and pymarc, see also requirements.txt
 
 ## Usage
 print help:

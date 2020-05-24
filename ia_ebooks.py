@@ -3,8 +3,7 @@ from io import BytesIO
 import json
 import re
 from time import sleep
-# TODO: requirements.txt
-## install requests, pymarc with pip
+# library dependencies
 import requests
 from pymarc import MARCReader, Record
 from pymarc.exceptions import RecordLengthInvalid
